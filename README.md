@@ -1,4 +1,4 @@
-# fliptool
+# Add Ballz Flip Tool
 JavaScript add ballz flip tool for modding Petz 3, 4 and 5 (1998–2002) game files.
 
 ## What does it do?
